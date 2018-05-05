@@ -1,17 +1,17 @@
-# it version 1.0
-Work With Laravel 5.4 & above
+# IT Version 1.0
+Work With Laravel 5.4 & Above
 # A simple Track To make sense
-# usage & Instllation & documentations
+# Usage & Instllation & Documentations
 [https://it.phpanonymous.com/docs](https://it.phpanonymous.com/docs)
 
-# home Page
+# Home Page
 [Home Page](https://it.phpanonymous.com)
 
-# tutorial videos On YouTube
+# Tutorial Videos On YouTube
 
 [https://www.youtube.com/playlist?list=PLcfD.....](https://www.youtube.com/playlist?list=PLcfD4HARQRF-zd0Kue0q8OTpS7f7j0J5B)
 
-# join Us Our Group On Facebook
+# Join Us Our Group On Facebook
 [https://www.facebook.com/groups/anonymouses.developers](https://www.facebook.com/groups/anonymouses.developers)
 
 
@@ -20,6 +20,6 @@ Work With Laravel 5.4 & above
 
 
 
-Your assistant Is Ready (<3)
+Your Assistant Is Ready (<3)
 
 Copyright Reserved 2018 LTS Script By phpanonymous.com
